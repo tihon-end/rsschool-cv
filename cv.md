@@ -2,7 +2,11 @@
 
 *Contact* Info: telegram: tihonnet
 
-
+*Skill task:*
+  * HTML basics
+  * CSS basics
+  * JS basics
+  * Git basics
 
 *Code examples:*
 ```
