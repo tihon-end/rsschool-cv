@@ -9,7 +9,7 @@
   * Git basics
 
 *Code examples:*
-```
+``` javascript
  function calc() {
 
         return new Promise(function(resolve, reject){
